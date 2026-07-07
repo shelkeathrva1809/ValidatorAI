@@ -1,0 +1,5 @@
+{
+  "name": "ValidatorAI",
+  "description": "Investor-grade startup idea validation and analysis tool using Gemini 3 Pro and Google Search.",
+  "requestFramePermissions": []
+}
